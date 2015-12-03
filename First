@@ -1,0 +1,6 @@
+echo # FluffyChickenMeat >> README.md
+git init
+git add README.md
+git commit -m "first real commit! Hey I got this working.Kinda.....Still learning how to use git, but I kinda got it.New commit, post. New commit, post. Just wait a while and I'll learn how"
+git remote add origin https://github.com/Chickensfly/FluffyChickenMeat.git
+git push -u origin master
