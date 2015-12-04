@@ -1,0 +1,6 @@
+echo # FluffyChickenMeat >> README.md
+git init
+git add README.md
+git commit -m "Hey KarateKidMonkey, I need a list of code for our robot. Thanks."
+git remote add origin https://github.com/Chickensfly/FluffyChickenMeat.git
+git push -u origin master
