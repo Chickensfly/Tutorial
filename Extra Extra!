@@ -1,0 +1,6 @@
+echo # FluffyChickenMeat >> README.md
+git init
+git add README.md
+git commit -m "Any petrolheads seeing this? Or am I the only for miles and miles?Whatever #r34"
+git remote add origin https://github.com/Chickensfly/FluffyChickenMeat.git
+git push -u origin master
